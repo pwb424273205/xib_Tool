@@ -7,4 +7,4 @@ xib的工具类目。
 （后续还在更新ing。。。。）
 
 demo动态图：
-![image](https://github.com/pwb424273205/xib_Tool/edit/master/demo.gif)
+![image](https://github.com/pwb424273205/xib_Tool/blob/master/demo.gif)
