@@ -6,8 +6,8 @@
 * 3.可以在xib设置按钮响应时间间隔等操作。<br> 
 * 4.可以在xib设置文字下划线，删除线及其颜色。<br> 
 * 5.可以在xib设置文字自适应缩放。（以6为基础，View+FontZoom扩展，控件+FontZoom扩展2选一）<br>
-（后续还在更新ing。。。。）\<br>
+（后续还在更新ing。。。。）<br>
 
-### demo动态图：\<br>
+### demo动态图：<br>
 
 ![image](https://github.com/pwb424273205/xib_Tool/blob/master/demo.gif)
